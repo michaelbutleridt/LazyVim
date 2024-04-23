@@ -1,5 +1,12 @@
 # Changelog
 
+## [10.22.1](https://github.com/LazyVim/LazyVim/compare/v10.22.0...v10.22.1) (2024-04-23)
+
+
+### Bug Fixes
+
+* **dot:** can't match kitty conf file ([#3042](https://github.com/LazyVim/LazyVim/issues/3042)) ([5fb4cf0](https://github.com/LazyVim/LazyVim/commit/5fb4cf0d365b65cb9b7afa8be047973b5fc1747a))
+
 ## [10.22.0](https://github.com/LazyVim/LazyVim/compare/v10.21.1...v10.22.0) (2024-04-22)
 
 
